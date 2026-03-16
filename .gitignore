@@ -7,3 +7,6 @@
 # Ignore other compiled files
 *.o
 *.out
+
+*.txt
+*.dat
